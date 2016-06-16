@@ -27,7 +27,7 @@ sscrap.product(url).then(function(product) {
 
 ```js
 {
-	productId: '116796362',
+  productId: '116796362',
   title: 'Micro-ondas Consul Cm020 20L Cinza Espelhado',
   price: '379.90',
   image: 'http://isuba1-a.akamaihd.net/produtos/01/00/item/116796/3/116796362_1GG.jpg'
@@ -61,13 +61,13 @@ sscrap.listProducts(urls).then(function(list) {
 
 ```js
 {
-	productId: '116796362',
+  productId: '116796362',
   title: 'Micro-ondas Consul Cm020 20L Cinza Espelhado',
   price: '379.90',
   image: 'http://isuba1-a.akamaihd.net/produtos/01/00/item/116796/3/116796362_1GG.jpg'
 },
 {
-	productId: '326208',
+  productId: '326208',
   title: 'Frigobar Brastemp Pla 80 litros BRL08',
   price: '1956.99',
   image: 'http://images.submarino.com.br/produtos/01/00/item/326/2/326208_1GG.jpg'
