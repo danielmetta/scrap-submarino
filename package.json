@@ -1,0 +1,36 @@
+{
+  "name": "scrap-submarino",
+  "description": "Consulta dados do produto Submarino",
+  "version": "1.0.0",
+  "readmeFilename": "README.md",
+  "keywords": [
+    "submarino",
+    "scrap",
+    "web scrap"
+  ],
+  "tags": [
+    "scrap",
+    "submarino",
+    "web"
+  ],
+  "author": {
+    "name": "Daniel Metta",
+    "email": "info@danielmetta.com.br",
+    "homepage": "http://www.danielmetta.com.br"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielmetta/scrap-submarino/index.js"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "es6-promise": "^3.2.1",
+    "request": "^2.72.0",
+    "underscore": "^1.8.3"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "main": "index.js"
+}
